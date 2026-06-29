@@ -5,7 +5,7 @@ window.GSS_PRODUCTS = [
     price: 1899,
     category: "Diagnostics",
     rating: 4.8,
-    image: "assets/products/digital-bp-monitor.svg",
+    image: "assets/products/digital-bp-monitor.png",
     description: "Automatic upper-arm BP monitor with clear LCD readings, memory recall, irregular heartbeat detection, and a comfortable cuff for home and clinic use.",
     specs: ["Upper-arm cuff", "LCD display", "Memory recall", "Battery powered"]
   },
@@ -15,7 +15,7 @@ window.GSS_PRODUCTS = [
     price: 749,
     category: "Diagnostics",
     rating: 4.7,
-    image: "assets/products/premium-stethoscope.svg",
+    image: "assets/products/premium-stethoscope.png",
     description: "Reliable dual head acoustic stethoscope designed for physicians, nurses, and medical students who need crisp heart and lung sound response.",
     specs: ["Dual head chestpiece", "Soft ear tips", "Latex-free tube", "Clinic grade"]
   },
@@ -25,7 +25,7 @@ window.GSS_PRODUCTS = [
     price: 699,
     category: "Diagnostics",
     rating: 4.6,
-    image: "assets/products/pulse-oximeter.svg",
+    image: "assets/products/pulse-oximeter.png",
     description: "Compact pulse oximeter for quick SpO2 and pulse rate checks with bright display, low power use, and easy one-button operation.",
     specs: ["SpO2 reading", "Pulse rate", "OLED screen", "Auto power-off"]
   },
@@ -35,7 +35,7 @@ window.GSS_PRODUCTS = [
     price: 999,
     category: "Diagnostics",
     rating: 4.5,
-    image: "assets/products/infrared-thermometer.svg",
+    image: "assets/products/infrared-thermometer.png",
     description: "Fast forehead thermometer with contactless measurement, fever alert, and memory storage for safe screening in homes and clinics.",
     specs: ["Forehead mode", "Fever alert", "1 second reading", "Memory storage"]
   },
@@ -45,7 +45,7 @@ window.GSS_PRODUCTS = [
     price: 249,
     category: "Protection",
     rating: 4.4,
-    image: "assets/products/surgical-mask-box.svg",
+    image: "assets/products/surgical-mask-box.png",
     description: "Breathable three-layer disposable masks with soft ear loops and high filtration support for everyday clinical protection.",
     specs: ["50 masks", "3 ply filter", "Soft ear loops", "Disposable"]
   },
@@ -55,7 +55,7 @@ window.GSS_PRODUCTS = [
     price: 549,
     category: "Protection",
     rating: 4.6,
-    image: "assets/products/nitrile-gloves.svg",
+    image: "assets/products/nitrile-gloves.png",
     description: "Latex-free examination gloves with dependable grip, tactile sensitivity, and powder-free comfort for medical procedures.",
     specs: ["100 pieces", "Latex-free", "Powder-free", "Textured grip"]
   },
@@ -65,7 +65,7 @@ window.GSS_PRODUCTS = [
     price: 429,
     category: "Protection",
     rating: 4.3,
-    image: "assets/products/ppe-kit.svg",
+    image: "assets/products/ppe-kit.png",
     description: "Single-use PPE kit with coverall, mask, gloves, shoe covers, and face shield for controlled medical environments.",
     specs: ["Full body coverall", "Face shield", "Shoe covers", "Single use"]
   },
@@ -75,7 +75,7 @@ window.GSS_PRODUCTS = [
     price: 179,
     category: "Protection",
     rating: 4.2,
-    image: "assets/products/face-shield.svg",
+    image: "assets/products/face-shield.png",
     description: "Lightweight transparent shield with foam support and elastic headband for splash protection during clinical work.",
     specs: ["Anti-splash visor", "Foam support", "Elastic band", "Reusable"]
   },
@@ -85,7 +85,7 @@ window.GSS_PRODUCTS = [
     price: 399,
     category: "Instruments",
     rating: 4.7,
-    image: "assets/products/surgical-scissors.svg",
+    image: "assets/products/surgical-scissors.png",
     description: "Precision stainless steel scissors with clean cutting edges for dressing, minor surgical, and first-aid applications.",
     specs: ["Stainless steel", "Sharp blades", "Autoclavable", "6 inch size"]
   },
@@ -95,7 +95,7 @@ window.GSS_PRODUCTS = [
     price: 649,
     category: "Instruments",
     rating: 4.6,
-    image: "assets/products/forceps-set.svg",
+    image: "assets/products/forceps-set.png",
     description: "Professional forceps set for dressing and tissue handling with corrosion-resistant finish and balanced grip.",
     specs: ["Two-piece set", "Serrated grip", "Rust resistant", "Autoclavable"]
   },
@@ -105,7 +105,7 @@ window.GSS_PRODUCTS = [
     price: 1199,
     category: "Instruments",
     rating: 4.5,
-    image: "assets/products/suture-kit.svg",
+    image: "assets/products/suture-kit.png",
     description: "Training-ready suture kit with practice pad, instruments, and sterile packed sutures for students and skill labs.",
     specs: ["Practice pad", "Needle holder", "Sutures included", "Storage pouch"]
   },
@@ -115,7 +115,7 @@ window.GSS_PRODUCTS = [
     price: 1499,
     category: "Instruments",
     rating: 4.4,
-    image: "assets/products/otoscope.svg",
+    image: "assets/products/otoscope.png",
     description: "Portable LED otoscope with reusable specula and bright focused illumination for ear examination and clinic rounds.",
     specs: ["LED light", "Reusable specula", "Pocket clip", "Battery powered"]
   },
@@ -125,7 +125,7 @@ window.GSS_PRODUCTS = [
     price: 899,
     category: "First Aid",
     rating: 4.8,
-    image: "assets/products/first-aid-kit.svg",
+    image: "assets/products/first-aid-kit.png",
     description: "Organized first aid kit with bandages, gauze, antiseptic wipes, tape, scissors, and essential emergency supplies.",
     specs: ["80+ items", "Compact case", "Emergency ready", "Home and travel"]
   },
@@ -135,7 +135,7 @@ window.GSS_PRODUCTS = [
     price: 199,
     category: "First Aid",
     rating: 4.3,
-    image: "assets/products/gauze-rolls.svg",
+    image: "assets/products/gauze-rolls.png",
     description: "Soft sterile gauze rolls for wound dressing, absorption, and secure bandaging in clinics and home care.",
     specs: ["Sterile packed", "Soft cotton", "High absorption", "Pack of 6"]
   },
@@ -145,7 +145,7 @@ window.GSS_PRODUCTS = [
     price: 129,
     category: "First Aid",
     rating: 4.2,
-    image: "assets/products/adhesive-bandages.svg",
+    image: "assets/products/adhesive-bandages.png",
     description: "Skin-friendly adhesive strips in assorted sizes for quick protection of small cuts and abrasions.",
     specs: ["Assorted sizes", "Breathable", "Skin-friendly", "Water resistant"]
   },
@@ -155,7 +155,7 @@ window.GSS_PRODUCTS = [
     price: 159,
     category: "First Aid",
     rating: 4.4,
-    image: "assets/products/antiseptic-solution.svg",
+    image: "assets/products/antiseptic-solution.png",
     description: "Trusted antiseptic solution for wound cleaning, minor cuts, and first-aid disinfection needs.",
     specs: ["100 ml bottle", "Wound cleaning", "Fast action", "Clinic use"]
   },
@@ -165,7 +165,7 @@ window.GSS_PRODUCTS = [
     price: 6499,
     category: "Mobility",
     rating: 4.7,
-    image: "assets/products/manual-wheelchair.svg",
+    image: "assets/products/manual-wheelchair.png",
     description: "Durable foldable wheelchair with padded seat, sturdy frame, rear brakes, and smooth rolling wheels for patient mobility.",
     specs: ["Foldable frame", "Rear brakes", "Padded seat", "Strong wheels"]
   },
@@ -175,7 +175,7 @@ window.GSS_PRODUCTS = [
     price: 1699,
     category: "Mobility",
     rating: 4.5,
-    image: "assets/products/adjustable-walker.svg",
+    image: "assets/products/adjustable-walker.png",
     description: "Lightweight height-adjustable walker with stable grip and anti-slip rubber tips for safer patient support.",
     specs: ["Height adjustable", "Anti-slip tips", "Lightweight", "Foldable"]
   },
@@ -185,7 +185,7 @@ window.GSS_PRODUCTS = [
     price: 1599,
     category: "Respiratory",
     rating: 4.6,
-    image: "assets/products/nebulizer-machine.svg",
+    image: "assets/products/nebulizer-machine.png",
     description: "Reliable compressor nebulizer with mask kit and medication cup for respiratory therapy at home or clinic.",
     specs: ["Compressor type", "Adult mask", "Child mask", "Medicine cup"]
   },
@@ -195,7 +195,7 @@ window.GSS_PRODUCTS = [
     price: 249,
     category: "Respiratory",
     rating: 4.3,
-    image: "assets/products/oxygen-mask.svg",
+    image: "assets/products/oxygen-mask.png",
     description: "Comfortable oxygen mask with clear tubing and secure elastic strap for oxygen therapy support.",
     specs: ["Clear mask", "Elastic strap", "2m tubing", "Disposable"]
   }
