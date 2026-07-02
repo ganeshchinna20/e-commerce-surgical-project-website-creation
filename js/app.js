@@ -790,7 +790,12 @@
           <div class="chat-log" id="chatLog"><div class="msg">Hello. I can help you find surgical products, explain shipping, show contact details, or guide you to categories.</div></div>
           <form class="chat-form" id="chatForm"><input id="chatInput" placeholder="Ask about products..."><button class="btn primary" type="submit">➤</button></form>
         </div>
-        <button class="chat-toggle" id="chatToggle" type="button" aria-label="Open chatbot">💬</button>
+        <div class="chat-floating">
+    <button class="chat-toggle" id="chatToggle" type="button" aria-label="Open chatbot">
+        <img src="assets/products/chitti.png" alt="Ganesh AI Assistant">
+    </button>
+</div>
+</button>
       </div>
     `;
     const chat = document.getElementById("chatbot");
